@@ -44,3 +44,25 @@ of gross revenue).
 - MoM and QoQ revenue trend analysis
 - Patient segmentation by utilization tier
 - Revenue leakage quantification at insurance level
+
+
+
+## Dashboard Preview
+
+### 1. Revenue Overview
+![Revenue Overview](01_Revenue_Overview.png)
+
+### 2. Denials & Utilization Analysis
+![Denials Analysis](02_Denials%20%26%20Utilization%20Analysis.png)
+
+### 3. Root Cause Analysis
+![Root Cause](03_Root%20Cause%20Analysis.png)
+
+### 4. Financial Detail
+![Financial Detail](04_Financial%20Detail.png)
+
+### 5. Recommendations
+![Recommendations](05_Recommendations.png)
+
+### 6. Summary
+![Summary](06_Summary.png)
